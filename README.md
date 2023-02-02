@@ -10,9 +10,21 @@ Pour répondre à mon questionnement, j'ai décidé de répertorier, pendant un 
 Ce point me permet d'aborder un autre élément important de cette récolte de données : sa subjectivité. D'une part, j'ai choisi d'analyser uniquement une plateforme appartenant à un seul média et d'autre part, je me suis basée principalement sur mes impressions pour classer les différentes nouvelles. Une nouvelle que je considère comme mauvaise (le résultat d'une votation par exemple) aurait pu être vue comme une bonne nouvelle pour d'autres personnes. Le résultat final est donc principalement pertinent pour moi-même mais il faudrait peut-être refaire une base de données pour l'appliquer à soi-même ou à un plus large public.
 
 Du 18 juin au 17 juillet 2022, j'ai donc scruté et classé ces nouvelles dans un dossier CSV en leur attribuant les valeurs suivantes :
-1. Quelle émotion ? (bonne, mauvaise, neutre)
-2. La date et le jour de publication
-3. Un lien HTML qui permet de retrouver la nouvelle
+1. Quelle émotion ? 
+  1.1 **Bonne** Pour les nouvelles que j’estimais positives. On retrouve dans cette catégories toutes les nouvelles qui traitent de progrès et de mouvements sociaux, de découvertes scientifiques, de résolution de conflit, d’événements culturels progressistes et quelqu’unes qui m’ont faites rire comme [une nouvelle sur l'anniversaire du Kebab](https://www.rts.ch/info/monde/13194806-le-kebab-veritable-icone-culturelle-en-allemagne-souffle-ses-50-bougies.html). J'attribuais donc cette valeur à des informations qui me réjouissait ou qui abordait des sujets légers.
+  1.2 **Mauvaise** Pour les nouvelles que j’estimais négatives. J’ai choisis cette valeur dès qu’il était question de décès de personnes, de blessé.es, de catastrophes naturelles, de conflit armés, d’accidents, de politiques conservatrices, de la crise énergitique et économique ou encore des informations sur la météo qui me rappelait le réchauffement climatique (la récolte ayant eu lieu pendant une période de forte chaleur).
+  1.3 **Neutre** Pour les nouvelles auxquelles je n’arrivais pas à attribuer une émotion positive ou négative. On retrouve dans cette catégorie principalement des critiques culturelles, des faits divers, des publications d'études scientifiques ou des interviews de personnes qui me sont inconnues. 
+2. La thématique traitée dans l'article
+  2.1 **Culture** Pour toutes les nouvelles qui parlaient de cinémas; de spectacles; d'expositions; d’artistes; de concerts; de festivals; d’histoire ; de littératures. 
+  2.2 **Politique Suisse** Pour toutes les nouvelles sur les élections et votations cantonales ou nationales; les interviews de personalités politiques; les manifestations; la mise en place de politiques ou de lois.
+  2.3 **International** Pour toutes les nouvelles sur la géopolitique entre les pays; les conflits internes ou entre nations; les élections et décisions politiques des pays étrangers; Internet et les réseaux sociaux; les organisations non gouvernementales.
+  2.4 **Économie** Pour toutes les nouvelles sur les indicateurs économiques comme les monnaies; la crise économique; les entreprises privées ou les PME.
+  2.5 **Environnement** Pour celles qui parlaient de climat et d'événements causés par ce dernier; de catastrophes naturelles; du monde animal.
+  2.6 **Sciences**  Pour les nouvelles qui parlaient d’avancées techniques; de découverte scientifique; de résultats d’étude; de santé.
+  2.7 **Faits divers** Pour les nouvelles portant sur des événements uniques comme les décès ou les anniversaires; les procès; les accidents.
+  2.8 **Covid** Pour les nouvelles mentionnant la pandémie du Covid ou ses impacts sur la société.
+3. La date et le jour de publication
+4. Un lien HTML qui permet de retrouver la nouvelle
 
 ## Création de la visualisation
 À partir des données que j'avais récoltées, je me suis chargée de faire un PieChart grâce à la bibliothèque [D3.js](https://d3js.org/). Je me suis aidée de différents exemples de PieChart qui étaient disponibles sur la [galerie d'Observable](https://observablehq.com/@d3/gallery) ainsi que du livre *D3.js Quick Start Guide* écrit par Matthew Huntington en 2018.
