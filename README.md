@@ -34,7 +34,7 @@ Des animations sur le deuxième PieChart permettent de visualiser le détail des
 
 ## Résultat final
 
-![Résultat](Visu_finale.png)
+![Résultat](Visualisation_finale.png)
 
 La visualisation montre clairement une prépondérance des mauvaises nouvelles (plus de la moitié) alors que les bonnes nouvelles et les neutres se partagent l’autre moitié. De plus les mauvaises nouvelles sont souvent plus conséquentes que les bonnes, je vous laisse cliquer pour le constater par vous-même.
 Malgré cela j’ai été agréablement surprise pendant ma récolte de données du nombre de bonnes nouvelles. Je ne les aurais pas forcément lues au quotidien, les titres des mauvaises me faisant plus facilement cliquer.
