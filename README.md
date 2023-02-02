@@ -27,8 +27,10 @@ Du 18 juin au 17 juillet 2022, j'ai donc scruté et classé ces nouvelles dans u
 ###### 4. Un lien HTML qui permet de retrouver la nouvelle
 
 ## Création de la visualisation
-À partir des données que j'avais récoltées, je me suis chargée de faire un PieChart grâce à la bibliothèque [D3.js](https://d3js.org/). Je me suis aidée de différents exemples de PieChart qui étaient disponibles sur la [galerie d'Observable](https://observablehq.com/@d3/gallery) ainsi que du livre *D3.js Quick Start Guide* écrit par Matthew Huntington en 2018.
-J'ai ajouté quelques animations à mon PieChart pour le rendre plus sympathique dont la possibilité d'ouvrir une nouvelle page avec une bonne, une mauvaise ou une nouvelle neutre selon un clic sur la section du graphique corresspondante.
+À partir des données que j'avais récoltées, je me suis chargée de faire deux PieChart grâce à la bibliothèque [D3.js](https://d3js.org/). Je me suis aidée de différents exemples de PieChart qui étaient disponibles sur la [galerie d'Observable](https://observablehq.com/@d3/gallery) ainsi que du livre *D3.js Quick Start Guide* écrit par Matthew Huntington en 2018.
+Le premier PieChart (à gauche) représente le nombre de nouvelles liées à chaque émotion ainsi que les pourcentages de chaque catégorie. Le deuxième PieChart (à droite) montre le nombre de nouvelles liées à chaque thématique.
+J'ai ajouté une animation à mon PieChart sur les émotions pour avoir la possibilité d'ouvrir une nouvelle page avec une bonne, une mauvaise ou une nouvelle neutre selon un clic sur la section du graphique corresspondante. 
+Des animations sur le deuxième PieChart permettent de visualiser le détail des bonnes, mauvaises et nouvelles neutres selon la thématique abordée en cliquant sur la section coresspondante. Le clic va alors modifier les valeurs du premier PieChart sur les émotions.
 
 ## Résultat final
 
@@ -36,3 +38,4 @@ J'ai ajouté quelques animations à mon PieChart pour le rendre plus sympathique
 
 La visualisation montre clairement une prépondérance des mauvaises nouvelles (plus de la moitié) alors que les bonnes nouvelles et les neutres se partagent l’autre moitié. De plus les mauvaises nouvelles sont souvent plus conséquentes que les bonnes, je vous laisse cliquer pour le constater par vous-même.
 Malgré cela j’ai été agréablement surprise pendant ma récolte de données du nombre de bonnes nouvelles. Je ne les aurais pas forcément lues au quotidien, les titres des mauvaises me faisant plus facilement cliquer.
+
