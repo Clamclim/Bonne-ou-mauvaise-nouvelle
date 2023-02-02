@@ -15,12 +15,13 @@ Du 18 juin au 17 juillet 2022, j'ai donc scruté et classé ces nouvelles dans u
   - **Mauvaise** Pour les nouvelles que j’estimais négatives. J’ai choisis cette valeur dès qu’il était question de décès de personnes, de blessé.es, de catastrophes naturelles, de conflit armés, d’accidents, de politiques conservatrices, de la crise énergitique et économique ou encore des informations sur la météo qui me rappelait le réchauffement climatique (la récolte ayant eu lieu pendant une période de forte chaleur).
   - **Neutre** Pour les nouvelles auxquelles je n’arrivais pas à attribuer une émotion positive ou négative. On retrouve dans cette catégorie principalement des critiques culturelles, des faits divers, des publications d'études scientifiques ou des interviews de personnes qui me sont inconnues. 
 ###### 2. La thématique traitée dans l'article
+  - **International** Pour toutes les nouvelles sur la géopolitique entre les pays; les conflits internes ou entre nations; les élections et décisions politiques des pays étrangers; Internet et les réseaux sociaux; les organisations non gouvernementales.
   - **Culture** Pour toutes les nouvelles qui parlaient de cinémas; de spectacles; d'expositions; d’artistes; de concerts; de festivals; d’histoire ; de littératures. 
   - **Politique Suisse** Pour toutes les nouvelles sur les élections et votations cantonales ou nationales; les interviews de personalités politiques; les manifestations; la mise en place de politiques ou de lois.
-  - **International** Pour toutes les nouvelles sur la géopolitique entre les pays; les conflits internes ou entre nations; les élections et décisions politiques des pays étrangers; Internet et les réseaux sociaux; les organisations non gouvernementales.
   - **Économie** Pour toutes les nouvelles sur les indicateurs économiques comme les monnaies; la crise économique; les entreprises privées ou les PME.
   - **Environnement** Pour celles qui parlaient de climat et d'événements causés par ce dernier; de catastrophes naturelles; du monde animal.
   - **Sciences**  Pour les nouvelles qui parlaient d’avancées techniques; de découverte scientifique; de résultats d’étude; de santé.
+  - **Sport** Pour les nouvelles sur les événements sportifs; les résultats de compétition; les personnalités du sport.
   - **Faits divers** Pour les nouvelles portant sur des événements uniques comme les décès ou les anniversaires; les procès; les accidents.
   - **Covid** Pour les nouvelles mentionnant la pandémie du Covid ou ses impacts sur la société.
 ###### 3. La date et le jour de publication
