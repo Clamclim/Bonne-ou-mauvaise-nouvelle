@@ -37,6 +37,14 @@ Des animations sur le deuxième PieChart permettent de visualiser le détail des
 
 ![Résultat](Visualisation_finale.png)
 
-La visualisation montre clairement une prépondérance des mauvaises nouvelles (plus de la moitié) alors que les bonnes nouvelles et les neutres se partagent l’autre moitié. De plus les mauvaises nouvelles sont souvent plus conséquentes que les bonnes, je vous laisse cliquer pour le constater par vous-même.
+La visualisation montre clairement une prépondérance des mauvaises nouvelles avec 50% du total alors que les bonnes nouvelles et les neutres se partagent l’autre moitié. De plus les mauvaises nouvelles sont souvent plus conséquentes que les bonnes, je vous laisse cliquer pour le constater par vous-même.
 Malgré cela j’ai été agréablement surprise pendant ma récolte de données du nombre de bonnes nouvelles. Je ne les aurais pas forcément lues au quotidien, les titres des mauvaises me faisant plus facilement cliquer.
+
+Pour ce qui est des thématiques, on retrouve en première ligne les nouvelles sur l'international qui peut jusitifer par le fait que la RTS est un média national qui va plus s'intéresser à des événements nationaux ou internationaux. Par ailleurs, la politique Suisse se trouve en deuxième position suivit de près par les nouvelles sur la culture. Les nouvelles sur les faits divers, l'environnement et l'économie se partagent un tiers du total. Pour terminer le classement on retrouve les quelques nouvelles sur la science, le sport ou le Covid.
+
+Pour voir le détail de chaque bonnes et mauvaises nouvelles par catégorie, il suffit de cliquer sur la section du graphique concernée.
+
+![Détails thématiques](VidéoChangement.mp4)
+
+Je m'attarderais spécialement sur la catégorie environnement ici. La majorité des nouvelles sont mauvaises (70 sur 85) et seulement 15 sont bonnes. Cela s'explique par un grand nombre de nouvelles faisant état de dérangement climatique qui provoque des dégats à l'environnement. De plus, ma période de récolte a eu lieu pendant un été caniculaire. Un autre éléement à relever est l'absence de nouvelles neutres pour cette thématique, cela se justifie car c'est un sujet qui me tient à coeur, les nouvelles concernant l'environnement vont donc forcément me toucher de façon négative ou pisitive.
 
