@@ -44,7 +44,7 @@ Pour ce qui est des thématiques, on retrouve en première ligne les nouvelles s
 
 Pour voir le détail de chaque bonnes et mauvaises nouvelles par catégorie, il suffit de cliquer sur la section du graphique concernée.
 
-![Détails thématiques](VidéoChangement.mp4)
+![Détail Environnement](Environnement.png)
 
 Je m'attarderais spécialement sur la catégorie environnement ici. La majorité des nouvelles sont mauvaises (70 sur 85) et seulement 15 sont bonnes. Cela s'explique par un grand nombre de nouvelles faisant état de dérangement climatique qui provoque des dégats à l'environnement. De plus, ma période de récolte a eu lieu pendant un été caniculaire. Un autre éléement à relever est l'absence de nouvelles neutres pour cette thématique, cela se justifie car c'est un sujet qui me tient à coeur, les nouvelles concernant l'environnement vont donc forcément me toucher de façon négative ou pisitive.
 
